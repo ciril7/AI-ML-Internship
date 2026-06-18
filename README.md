@@ -2,7 +2,7 @@
 
 Welcome to my **Artificial Intelligence & Machine Learning Internship Repository**. This repository contains all assignments, practical implementations, and projects completed during my AI/ML Internship. The work covers Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing using Python and popular AI frameworks.
 
-## 🌐 Live Portfolio
+## 🌐 Project
 
 **Final Project:**
 https://ciril7.github.io/AI-ML-Internship/
