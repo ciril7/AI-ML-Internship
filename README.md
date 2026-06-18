@@ -4,7 +4,7 @@ Welcome to my **Artificial Intelligence & Machine Learning Internship Repository
 
 ## 🌐 Live Portfolio
 
-**GitHub Pages:**
+**Final Project:**
 https://ciril7.github.io/AI-ML-Internship/
 
 ---
@@ -246,6 +246,7 @@ The model generates meaningful summaries while retaining key information from th
 
 ### Live Project
 
+News Article Summarization
 https://ciril7.github.io/AI-ML-Internship/
 
 ---
@@ -276,5 +277,3 @@ Throughout this internship, I gained hands-on experience in:
 Artificial Intelligence & Machine Learning Enthusiast
 
 GitHub: https://github.com/ciril7
-
-Portfolio: https://ciril7.github.io/AI-ML-Internship/
